@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +8,11 @@ using BepInEx.Configuration;
 using UnityEngine;
 using HarmonyLib;
 using UnityEngine.UI;
+
+// JavPlayer V1.12bのウォーターマークを無効化するModです。
+// 暗号化しているクラスや関数を使用していないので、バージョンアップしても使えると思いますが、要検証。
+// 使用するフレームワークはBepInEx 5.x 64bitです。
+// 直接dllの中で弄るのは気が引けたのでこうしてます。
 
 namespace DisableWM
 {
