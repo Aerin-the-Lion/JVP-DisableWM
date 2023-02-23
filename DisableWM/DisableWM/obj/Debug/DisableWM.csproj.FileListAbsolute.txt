@@ -1,8 +1,0 @@
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\bin\Debug\DisableWM.dll
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\bin\Debug\DisableWM.pdb
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\obj\Debug\DisableWM.csproj.AssemblyReference.cache
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\obj\Debug\DisableWM.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\obj\Debug\DisableWM.dll
-C:\Users\admin\source\repos\JavPlayer\DisableWM\DisableWM\obj\Debug\DisableWM.pdb
-H:\JavPlayer_112b\BepInEx\plugins\DisableWM.dll
-H:\JavPlayer_112b\BepInEx\plugins\DisableWM.pdb
